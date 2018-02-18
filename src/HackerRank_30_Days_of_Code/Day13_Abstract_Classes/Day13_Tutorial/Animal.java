@@ -1,4 +1,4 @@
-package HackerRank_30_Days_of_Code.Day13_Abstract_Classes;
+package HackerRank_30_Days_of_Code.Day13_Abstract_Classes.Day13_Tutorial;
 
 public abstract class Animal {
     public int age;
